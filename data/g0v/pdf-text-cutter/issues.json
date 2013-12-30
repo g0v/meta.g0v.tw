@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/pdf-text-cutter/issues/1",
+    "labels_url": "https://api.github.com/repos/g0v/pdf-text-cutter/issues/1/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/pdf-text-cutter/issues/1/comments",
+    "events_url": "https://api.github.com/repos/g0v/pdf-text-cutter/issues/1/events",
+    "html_url": "https://github.com/g0v/pdf-text-cutter/issues/1",
+    "id": 19982428,
+    "number": 1,
+    "title": "無法正常抓出資訊",
+    "user": {
+      "login": "ronnywang",
+      "id": 527063,
+      "avatar_url": "https://gravatar.com/avatar/ff8938a33e3709b362562afdd0f3bbf7?d=https%3A%2F%2Fidenticons.github.com%2F47adb45b726d911612d658c754859110.png&r=x",
+      "gravatar_id": "ff8938a33e3709b362562afdd0f3bbf7",
+      "url": "https://api.github.com/users/ronnywang",
+      "html_url": "https://github.com/ronnywang",
+      "followers_url": "https://api.github.com/users/ronnywang/followers",
+      "following_url": "https://api.github.com/users/ronnywang/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ronnywang/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ronnywang/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ronnywang/subscriptions",
+      "organizations_url": "https://api.github.com/users/ronnywang/orgs",
+      "repos_url": "https://api.github.com/users/ronnywang/repos",
+      "events_url": "https://api.github.com/users/ronnywang/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ronnywang/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 4,
+    "created_at": "2013-09-24T14:45:12Z",
+    "updated_at": "2013-09-26T07:12:13Z",
+    "closed_at": null,
+    "body": "http://ronnywang.github.io/sandbox/20130924/test.pdf\r\n我用上面那個 PDF 為例\r\n\r\n跑完之後產生的檔案有\r\n\r\n./page-1.deshadow.deskew\r\n./page-1.deshadow.deskew/receipt.json\r\n./page-1\r\n./page-1/receipt.json\r\n./page-1.png\r\n./page-1.pbm\r\n./page-1.deshadow.deskew.png\r\n\r\n其中 receipt.json 都是空的 array []\r\n所以沒有跑出任何結果\r\n然後產生出來的 page-1.png 是歪的，我自己獨自用 pamtilt 跑他出來是 3.x ，應該是 pamtilt 有誤判\r\n\r\n我把 pamtilt 那一段拿掉，直接把 angle 設成 0 再試一次(因為我的圖感覺還滿正的)\r\n還是差不多的結果\r\n\r\n是我的使用上有任何用錯嗎?\r\n多謝"
+  }
+]

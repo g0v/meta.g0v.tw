@@ -1,0 +1,772 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/27",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/27/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/27/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/27/events",
+    "html_url": "https://github.com/g0v/dev/issues/27",
+    "id": 24703566,
+    "number": 27,
+    "title": "大黑客松活動改善備忘",
+    "user": {
+      "login": "ipaaa",
+      "id": 2939042,
+      "avatar_url": "https://gravatar.com/avatar/59b5bdba79f1db01187c5620bd64c572?d=https%3A%2F%2Fidenticons.github.com%2Fa6f43f0eb6e9caa1ba8d80aa503afa16.png&r=x",
+      "gravatar_id": "59b5bdba79f1db01187c5620bd64c572",
+      "url": "https://api.github.com/users/ipaaa",
+      "html_url": "https://github.com/ipaaa",
+      "followers_url": "https://api.github.com/users/ipaaa/followers",
+      "following_url": "https://api.github.com/users/ipaaa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ipaaa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ipaaa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ipaaa/subscriptions",
+      "organizations_url": "https://api.github.com/users/ipaaa/orgs",
+      "repos_url": "https://api.github.com/users/ipaaa/repos",
+      "events_url": "https://api.github.com/users/ipaaa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ipaaa/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": {
+      "login": "ipaaa",
+      "id": 2939042,
+      "avatar_url": "https://gravatar.com/avatar/59b5bdba79f1db01187c5620bd64c572?d=https%3A%2F%2Fidenticons.github.com%2Fa6f43f0eb6e9caa1ba8d80aa503afa16.png&r=x",
+      "gravatar_id": "59b5bdba79f1db01187c5620bd64c572",
+      "url": "https://api.github.com/users/ipaaa",
+      "html_url": "https://github.com/ipaaa",
+      "followers_url": "https://api.github.com/users/ipaaa/followers",
+      "following_url": "https://api.github.com/users/ipaaa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ipaaa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ipaaa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ipaaa/subscriptions",
+      "organizations_url": "https://api.github.com/users/ipaaa/orgs",
+      "repos_url": "https://api.github.com/users/ipaaa/repos",
+      "events_url": "https://api.github.com/users/ipaaa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ipaaa/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-12-23T12:01:04Z",
+    "updated_at": "2013-12-23T12:01:04Z",
+    "closed_at": null,
+    "body": "1. 技能貼紙加印「議題」「影像」等\r\n2. 加購名牌架？\r\n3. 退訂提醒"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/26",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/26/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/26/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/26/events",
+    "html_url": "https://github.com/g0v/dev/issues/26",
+    "id": 23514166,
+    "number": 26,
+    "title": "「問題出在公民服從」翻譯共筆",
+    "user": {
+      "login": "ipaaa",
+      "id": 2939042,
+      "avatar_url": "https://gravatar.com/avatar/59b5bdba79f1db01187c5620bd64c572?d=https%3A%2F%2Fidenticons.github.com%2Fa6f43f0eb6e9caa1ba8d80aa503afa16.png&r=x",
+      "gravatar_id": "59b5bdba79f1db01187c5620bd64c572",
+      "url": "https://api.github.com/users/ipaaa",
+      "html_url": "https://github.com/ipaaa",
+      "followers_url": "https://api.github.com/users/ipaaa/followers",
+      "following_url": "https://api.github.com/users/ipaaa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ipaaa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ipaaa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ipaaa/subscriptions",
+      "organizations_url": "https://api.github.com/users/ipaaa/orgs",
+      "repos_url": "https://api.github.com/users/ipaaa/repos",
+      "events_url": "https://api.github.com/users/ipaaa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ipaaa/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/translation",
+        "name": "translation",
+        "color": "F2800D"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/bitesized",
+        "name": "bitesized",
+        "color": "FFE14D"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-11-30T02:38:08Z",
+    "updated_at": "2013-11-30T02:38:08Z",
+    "closed_at": null,
+    "body": "https://g0v.hackpad.com/1JRGZXysJL6"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/25",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/25/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/25/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/25/events",
+    "html_url": "https://github.com/g0v/dev/issues/25",
+    "id": 18903887,
+    "number": 25,
+    "title": "user(純user, 無參與) 回報 bug, 但目前似乎沒有統一/匿名 的入口",
+    "user": {
+      "login": "lanfon72",
+      "id": 5169694,
+      "avatar_url": "https://gravatar.com/avatar/f51ccdcf762f50ab85dc9e62b3bd60e3?d=https%3A%2F%2Fidenticons.github.com%2Feebe5176a54c40bc5426ab096e6e2a45.png&r=x",
+      "gravatar_id": "f51ccdcf762f50ab85dc9e62b3bd60e3",
+      "url": "https://api.github.com/users/lanfon72",
+      "html_url": "https://github.com/lanfon72",
+      "followers_url": "https://api.github.com/users/lanfon72/followers",
+      "following_url": "https://api.github.com/users/lanfon72/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lanfon72/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lanfon72/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lanfon72/subscriptions",
+      "organizations_url": "https://api.github.com/users/lanfon72/orgs",
+      "repos_url": "https://api.github.com/users/lanfon72/repos",
+      "events_url": "https://api.github.com/users/lanfon72/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lanfon72/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 3,
+    "created_at": "2013-09-03T11:57:29Z",
+    "updated_at": "2013-09-03T12:17:29Z",
+    "closed_at": null,
+    "body": "相關討論於 irc log : http://logbot.g0v.tw/channel/g0v.tw/2013-09-03#277\r\n\r\n目前似乎沒有一個簡易的回報/建議平台，另外 AINUser 也提到希望匿名的問題。\r\n(應該是指提供越少回報者資料越好...吧?"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/24",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/24/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/24/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/24/events",
+    "html_url": "https://github.com/g0v/dev/issues/24",
+    "id": 18241784,
+    "number": 24,
+    "title": "建立發起專案SOP",
+    "user": {
+      "login": "ipaaa",
+      "id": 2939042,
+      "avatar_url": "https://gravatar.com/avatar/59b5bdba79f1db01187c5620bd64c572?d=https%3A%2F%2Fidenticons.github.com%2Fa6f43f0eb6e9caa1ba8d80aa503afa16.png&r=x",
+      "gravatar_id": "59b5bdba79f1db01187c5620bd64c572",
+      "url": "https://api.github.com/users/ipaaa",
+      "html_url": "https://github.com/ipaaa",
+      "followers_url": "https://api.github.com/users/ipaaa/followers",
+      "following_url": "https://api.github.com/users/ipaaa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ipaaa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ipaaa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ipaaa/subscriptions",
+      "organizations_url": "https://api.github.com/users/ipaaa/orgs",
+      "repos_url": "https://api.github.com/users/ipaaa/repos",
+      "events_url": "https://api.github.com/users/ipaaa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ipaaa/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/research",
+        "name": "research",
+        "color": "F53D3D"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 32,
+    "created_at": "2013-08-19T14:18:03Z",
+    "updated_at": "2013-10-12T07:46:44Z",
+    "closed_at": null,
+    "body": "From Cinyee\r\n發想專案idea的地方過多，應該統一一處\r\nhttp://hack.g0v.tw/project （有個發起新專案）\r\nhttps://g0v.hackpad.com/ep/group/yvUEJD5fNjX\r\nhttps://groups.google.com/forum/?fromgroups#!forum/g0v-general\r\nhttps://github.com/g0v/g0v.tw/wiki/Add-project （感覺是給程式人的） - deprecated\r\nhttps://g0v.hackpad.com/Idea-Pool-d3UYGxZtxw2\r\n\r\n目前有各種專案狀態，位置很多：\r\n「初步構想」-->放每期黑客松 idea pool、g0v-general groups\r\n「徵人中」--> 自己一頁 hackpad 或 hackfoldr\r\n「進行中」--> 進 hack.g0v.tw/project （需要撰寫加入說明）\r\n「成果」--> hack.g0v.tw/project\r\n\r\n目前 hack.g0v.tw/project 只吃後兩者「進行中」「成果」，前兩者要確定放哪較好（繼續在hackpad或搬到google forum?）\r\n\r\n以上需要SOP整合，\r\n以下來討論。"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/22",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/22/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/22/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/22/events",
+    "html_url": "https://github.com/g0v/dev/issues/22",
+    "id": 17974851,
+    "number": 22,
+    "title": "建立訊息推撥流程",
+    "user": {
+      "login": "clkao",
+      "id": 69736,
+      "avatar_url": "https://gravatar.com/avatar/f0cc4b511c06b73afb23beb5695a83d6?d=https%3A%2F%2Fidenticons.github.com%2F02b9e4f7aa1e5f60897e3688a8d3750b.png&r=x",
+      "gravatar_id": "f0cc4b511c06b73afb23beb5695a83d6",
+      "url": "https://api.github.com/users/clkao",
+      "html_url": "https://github.com/clkao",
+      "followers_url": "https://api.github.com/users/clkao/followers",
+      "following_url": "https://api.github.com/users/clkao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clkao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clkao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clkao/subscriptions",
+      "organizations_url": "https://api.github.com/users/clkao/orgs",
+      "repos_url": "https://api.github.com/users/clkao/repos",
+      "events_url": "https://api.github.com/users/clkao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clkao/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/research",
+        "name": "research",
+        "color": "F53D3D"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 19,
+    "created_at": "2013-08-13T01:11:26Z",
+    "updated_at": "2013-08-19T17:18:03Z",
+    "closed_at": null,
+    "body": "blog.g0v.tw, facebook, gplus\r\n\r\ncc @caasi @venevchao @pofeng\r\n"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/21",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/21/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/21/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/21/events",
+    "html_url": "https://github.com/g0v/dev/issues/21",
+    "id": 17911393,
+    "number": 21,
+    "title": "act.g0v.tw",
+    "user": {
+      "login": "clkao",
+      "id": 69736,
+      "avatar_url": "https://gravatar.com/avatar/f0cc4b511c06b73afb23beb5695a83d6?d=https%3A%2F%2Fidenticons.github.com%2F02b9e4f7aa1e5f60897e3688a8d3750b.png&r=x",
+      "gravatar_id": "f0cc4b511c06b73afb23beb5695a83d6",
+      "url": "https://api.github.com/users/clkao",
+      "html_url": "https://github.com/clkao",
+      "followers_url": "https://api.github.com/users/clkao/followers",
+      "following_url": "https://api.github.com/users/clkao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clkao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clkao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clkao/subscriptions",
+      "organizations_url": "https://api.github.com/users/clkao/orgs",
+      "repos_url": "https://api.github.com/users/clkao/repos",
+      "events_url": "https://api.github.com/users/clkao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clkao/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/devops",
+        "name": "devops",
+        "color": "000000"
+      }
+    ],
+    "state": "open",
+    "assignee": {
+      "login": "yhsiang",
+      "id": 93509,
+      "avatar_url": "https://gravatar.com/avatar/90e6857ae4cd92fcd6edcfa9f589bdaa?d=https%3A%2F%2Fidenticons.github.com%2Ff7bd66e3493b538aae3d9a4e93f52d9b.png&r=x",
+      "gravatar_id": "90e6857ae4cd92fcd6edcfa9f589bdaa",
+      "url": "https://api.github.com/users/yhsiang",
+      "html_url": "https://github.com/yhsiang",
+      "followers_url": "https://api.github.com/users/yhsiang/followers",
+      "following_url": "https://api.github.com/users/yhsiang/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yhsiang/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yhsiang/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yhsiang/subscriptions",
+      "organizations_url": "https://api.github.com/users/yhsiang/orgs",
+      "repos_url": "https://api.github.com/users/yhsiang/repos",
+      "events_url": "https://api.github.com/users/yhsiang/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yhsiang/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-11T11:40:06Z",
+    "updated_at": "2013-08-19T17:23:19Z",
+    "closed_at": null,
+    "body": "move lqfb-test instance over\r\n"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/20",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/20/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/20/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/20/events",
+    "html_url": "https://github.com/g0v/dev/issues/20",
+    "id": 17864457,
+    "number": 20,
+    "title": "automate gnucash file export",
+    "user": {
+      "login": "clkao",
+      "id": 69736,
+      "avatar_url": "https://gravatar.com/avatar/f0cc4b511c06b73afb23beb5695a83d6?d=https%3A%2F%2Fidenticons.github.com%2F02b9e4f7aa1e5f60897e3688a8d3750b.png&r=x",
+      "gravatar_id": "f0cc4b511c06b73afb23beb5695a83d6",
+      "url": "https://api.github.com/users/clkao",
+      "html_url": "https://github.com/clkao",
+      "followers_url": "https://api.github.com/users/clkao/followers",
+      "following_url": "https://api.github.com/users/clkao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clkao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clkao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clkao/subscriptions",
+      "organizations_url": "https://api.github.com/users/clkao/orgs",
+      "repos_url": "https://api.github.com/users/clkao/repos",
+      "events_url": "https://api.github.com/users/clkao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clkao/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/bitesized",
+        "name": "bitesized",
+        "color": "FFE14D"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/devops",
+        "name": "devops",
+        "color": "000000"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-09T14:08:17Z",
+    "updated_at": "2013-08-19T17:17:31Z",
+    "closed_at": null,
+    "body": "currently in g0v/g0v.tw accounting.gnucash and accounting-saved-reports-2.4"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/19",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/19/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/19/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/19/events",
+    "html_url": "https://github.com/g0v/dev/issues/19",
+    "id": 17854575,
+    "number": 19,
+    "title": "撰寫專案列入 g0v 成果的步驟",
+    "user": {
+      "login": "clkao",
+      "id": 69736,
+      "avatar_url": "https://gravatar.com/avatar/f0cc4b511c06b73afb23beb5695a83d6?d=https%3A%2F%2Fidenticons.github.com%2F02b9e4f7aa1e5f60897e3688a8d3750b.png&r=x",
+      "gravatar_id": "f0cc4b511c06b73afb23beb5695a83d6",
+      "url": "https://api.github.com/users/clkao",
+      "html_url": "https://github.com/clkao",
+      "followers_url": "https://api.github.com/users/clkao/followers",
+      "following_url": "https://api.github.com/users/clkao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clkao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clkao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clkao/subscriptions",
+      "organizations_url": "https://api.github.com/users/clkao/orgs",
+      "repos_url": "https://api.github.com/users/clkao/repos",
+      "events_url": "https://api.github.com/users/clkao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clkao/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/writing",
+        "name": "writing",
+        "color": "CC66CC"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 1,
+    "created_at": "2013-08-09T09:38:10Z",
+    "updated_at": "2013-08-19T17:16:50Z",
+    "closed_at": null,
+    "body": "* requirement: open source\r\n* 步驟: 準備好 g0v.json\r\n* 到 hack.g0v.tw/project 提交 (步驟可見 http://hack.g0v.tw/meta/9IbgS6xfHZA)"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/18",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/18/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/18/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/18/events",
+    "html_url": "https://github.com/g0v/dev/issues/18",
+    "id": 17849413,
+    "number": 18,
+    "title": "標準授權",
+    "user": {
+      "login": "clkao",
+      "id": 69736,
+      "avatar_url": "https://gravatar.com/avatar/f0cc4b511c06b73afb23beb5695a83d6?d=https%3A%2F%2Fidenticons.github.com%2F02b9e4f7aa1e5f60897e3688a8d3750b.png&r=x",
+      "gravatar_id": "f0cc4b511c06b73afb23beb5695a83d6",
+      "url": "https://api.github.com/users/clkao",
+      "html_url": "https://github.com/clkao",
+      "followers_url": "https://api.github.com/users/clkao/followers",
+      "following_url": "https://api.github.com/users/clkao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clkao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clkao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clkao/subscriptions",
+      "organizations_url": "https://api.github.com/users/clkao/orgs",
+      "repos_url": "https://api.github.com/users/clkao/repos",
+      "events_url": "https://api.github.com/users/clkao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clkao/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/research",
+        "name": "research",
+        "color": "F53D3D"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/writing",
+        "name": "writing",
+        "color": "CC66CC"
+      }
+    ],
+    "state": "open",
+    "assignee": {
+      "login": "legist",
+      "id": 1932744,
+      "avatar_url": "https://gravatar.com/avatar/9e0b002ffe27dbdfb272e8fd1377bd35?d=https%3A%2F%2Fidenticons.github.com%2F2cfaf94da4a8014f32ff6cceed220a65.png&r=x",
+      "gravatar_id": "9e0b002ffe27dbdfb272e8fd1377bd35",
+      "url": "https://api.github.com/users/legist",
+      "html_url": "https://github.com/legist",
+      "followers_url": "https://api.github.com/users/legist/followers",
+      "following_url": "https://api.github.com/users/legist/following{/other_user}",
+      "gists_url": "https://api.github.com/users/legist/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/legist/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/legist/subscriptions",
+      "organizations_url": "https://api.github.com/users/legist/orgs",
+      "repos_url": "https://api.github.com/users/legist/repos",
+      "events_url": "https://api.github.com/users/legist/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/legist/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "milestone": null,
+    "comments": 2,
+    "created_at": "2013-08-09T07:00:03Z",
+    "updated_at": "2013-08-19T17:18:13Z",
+    "closed_at": null,
+    "body": "撰寫 g0v 建議的授權方式，以及若採用其他授權需注意的事項\r\n\r\n* mockup/wireframe: CC0\r\n* code: mit http://g0v.mit-license.org/\r\n* 文件、圖文創作、網頁成果: CC-BY\r\n\r\n問題:\r\n* 若 CC-BY 成果被引用而未註明，採取的行動是？\r\n\r\n選擇其他授權方式需注意事項:\r\n* 若採 CC-BY-NC, 那需要 commercial usage 的人要和誰聯絡？接受的原則是？\r\n"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/17",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/17/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/17/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/17/events",
+    "html_url": "https://github.com/g0v/dev/issues/17",
+    "id": 17849230,
+    "number": 17,
+    "title": "new repository actions",
+    "user": {
+      "login": "clkao",
+      "id": 69736,
+      "avatar_url": "https://gravatar.com/avatar/f0cc4b511c06b73afb23beb5695a83d6?d=https%3A%2F%2Fidenticons.github.com%2F02b9e4f7aa1e5f60897e3688a8d3750b.png&r=x",
+      "gravatar_id": "f0cc4b511c06b73afb23beb5695a83d6",
+      "url": "https://api.github.com/users/clkao",
+      "html_url": "https://github.com/clkao",
+      "followers_url": "https://api.github.com/users/clkao/followers",
+      "following_url": "https://api.github.com/users/clkao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clkao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clkao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clkao/subscriptions",
+      "organizations_url": "https://api.github.com/users/clkao/orgs",
+      "repos_url": "https://api.github.com/users/clkao/repos",
+      "events_url": "https://api.github.com/users/clkao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clkao/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/devops",
+        "name": "devops",
+        "color": "000000"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 2,
+    "created_at": "2013-08-09T06:52:34Z",
+    "updated_at": "2013-08-19T17:35:14Z",
+    "closed_at": null,
+    "body": "* add common tags\r\n* add to dev team\r\n* check for license file (or readme content) - if not provided, create an issue\r\n\r\ngithub doesn't seem to provide new-repo hook for organizations, so we probably need to scan for new repos and apply these actions.\r\n"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/15",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/15/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/15/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/15/events",
+    "html_url": "https://github.com/g0v/dev/issues/15",
+    "id": 17848961,
+    "number": 15,
+    "title": "定義 g0v repo issue 常用 tag",
+    "user": {
+      "login": "clkao",
+      "id": 69736,
+      "avatar_url": "https://gravatar.com/avatar/f0cc4b511c06b73afb23beb5695a83d6?d=https%3A%2F%2Fidenticons.github.com%2F02b9e4f7aa1e5f60897e3688a8d3750b.png&r=x",
+      "gravatar_id": "f0cc4b511c06b73afb23beb5695a83d6",
+      "url": "https://api.github.com/users/clkao",
+      "html_url": "https://github.com/clkao",
+      "followers_url": "https://api.github.com/users/clkao/followers",
+      "following_url": "https://api.github.com/users/clkao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clkao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clkao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clkao/subscriptions",
+      "organizations_url": "https://api.github.com/users/clkao/orgs",
+      "repos_url": "https://api.github.com/users/clkao/repos",
+      "events_url": "https://api.github.com/users/clkao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clkao/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/design",
+        "name": "design",
+        "color": "004C99"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/translation",
+        "name": "translation",
+        "color": "F2800D"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/OCR",
+        "name": "OCR",
+        "color": "C7F53D"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/datainput",
+        "name": "datainput",
+        "color": "5CC2D6"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/research",
+        "name": "research",
+        "color": "F53D3D"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/drawing",
+        "name": "drawing",
+        "color": "40BF40"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/parser",
+        "name": "parser",
+        "color": "2EB88A"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/bitesized",
+        "name": "bitesized",
+        "color": "FFE14D"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/doc",
+        "name": "doc",
+        "color": "3399CC"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/devops",
+        "name": "devops",
+        "color": "000000"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/promote",
+        "name": "promote",
+        "color": "8040BF"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/writing",
+        "name": "writing",
+        "color": "CC66CC"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/code",
+        "name": "code",
+        "color": "A30000"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/frontend",
+        "name": "frontend",
+        "color": "66E6FF"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 18,
+    "created_at": "2013-08-09T06:39:47Z",
+    "updated_at": "2013-08-28T17:06:17Z",
+    "closed_at": null,
+    "body": "譬如 \"輸入資料\", \"翻譯\", \"圖轉文\", \"搜尋資料\", \"畫圖\", \"寫 parser\""
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/13",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/13/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/13/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/13/events",
+    "html_url": "https://github.com/g0v/dev/issues/13",
+    "id": 17848856,
+    "number": 13,
+    "title": "規劃公報發佈流程",
+    "user": {
+      "login": "clkao",
+      "id": 69736,
+      "avatar_url": "https://gravatar.com/avatar/f0cc4b511c06b73afb23beb5695a83d6?d=https%3A%2F%2Fidenticons.github.com%2F02b9e4f7aa1e5f60897e3688a8d3750b.png&r=x",
+      "gravatar_id": "f0cc4b511c06b73afb23beb5695a83d6",
+      "url": "https://api.github.com/users/clkao",
+      "html_url": "https://github.com/clkao",
+      "followers_url": "https://api.github.com/users/clkao/followers",
+      "following_url": "https://api.github.com/users/clkao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clkao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clkao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clkao/subscriptions",
+      "organizations_url": "https://api.github.com/users/clkao/orgs",
+      "repos_url": "https://api.github.com/users/clkao/repos",
+      "events_url": "https://api.github.com/users/clkao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clkao/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/research",
+        "name": "research",
+        "color": "F53D3D"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/writing",
+        "name": "writing",
+        "color": "CC66CC"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 6,
+    "created_at": "2013-08-09T06:35:45Z",
+    "updated_at": "2013-09-08T12:20:22Z",
+    "closed_at": null,
+    "body": "目前公報 hackpad collection: https://g0v.hackpad.com/ep/group/yZ9JT9UlJf4\r\n\r\n看是要每週一篇（給有在 follow 但沒空追 irc 的人），再整理到每月一篇（比較給外部看）\r\n"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/12",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/12/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/12/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/12/events",
+    "html_url": "https://github.com/g0v/dev/issues/12",
+    "id": 17848798,
+    "number": 12,
+    "title": "規劃值日生組, 決定協調者",
+    "user": {
+      "login": "clkao",
+      "id": 69736,
+      "avatar_url": "https://gravatar.com/avatar/f0cc4b511c06b73afb23beb5695a83d6?d=https%3A%2F%2Fidenticons.github.com%2F02b9e4f7aa1e5f60897e3688a8d3750b.png&r=x",
+      "gravatar_id": "f0cc4b511c06b73afb23beb5695a83d6",
+      "url": "https://api.github.com/users/clkao",
+      "html_url": "https://github.com/clkao",
+      "followers_url": "https://api.github.com/users/clkao/followers",
+      "following_url": "https://api.github.com/users/clkao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clkao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clkao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clkao/subscriptions",
+      "organizations_url": "https://api.github.com/users/clkao/orgs",
+      "repos_url": "https://api.github.com/users/clkao/repos",
+      "events_url": "https://api.github.com/users/clkao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clkao/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/research",
+        "name": "research",
+        "color": "F53D3D"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/writing",
+        "name": "writing",
+        "color": "CC66CC"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-09T06:32:23Z",
+    "updated_at": "2013-08-19T17:20:38Z",
+    "closed_at": null,
+    "body": "similar to g0v/kuansim#37\r\n\r\n參考資料\r\nhttp://hack.g0v.tw/kuansim/1OaXIxVVPSd\r\n\r\n值日生(媒婆)SOP https://g0v.hackpad.com/-SOP-RTB9Xb19mIm\r\n"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/dev/issues/10",
+    "labels_url": "https://api.github.com/repos/g0v/dev/issues/10/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/dev/issues/10/comments",
+    "events_url": "https://api.github.com/repos/g0v/dev/issues/10/events",
+    "html_url": "https://github.com/g0v/dev/issues/10",
+    "id": 15739906,
+    "number": 10,
+    "title": "web irc integration on hack.g0v.tw",
+    "user": {
+      "login": "clkao",
+      "id": 69736,
+      "avatar_url": "https://gravatar.com/avatar/f0cc4b511c06b73afb23beb5695a83d6?d=https%3A%2F%2Fidenticons.github.com%2F02b9e4f7aa1e5f60897e3688a8d3750b.png&r=x",
+      "gravatar_id": "f0cc4b511c06b73afb23beb5695a83d6",
+      "url": "https://api.github.com/users/clkao",
+      "html_url": "https://github.com/clkao",
+      "followers_url": "https://api.github.com/users/clkao/followers",
+      "following_url": "https://api.github.com/users/clkao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clkao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clkao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clkao/subscriptions",
+      "organizations_url": "https://api.github.com/users/clkao/orgs",
+      "repos_url": "https://api.github.com/users/clkao/repos",
+      "events_url": "https://api.github.com/users/clkao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clkao/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/dev/labels/research",
+        "name": "research",
+        "color": "F53D3D"
+      }
+    ],
+    "state": "open",
+    "assignee": {
+      "login": "yhsiang",
+      "id": 93509,
+      "avatar_url": "https://gravatar.com/avatar/90e6857ae4cd92fcd6edcfa9f589bdaa?d=https%3A%2F%2Fidenticons.github.com%2Ff7bd66e3493b538aae3d9a4e93f52d9b.png&r=x",
+      "gravatar_id": "90e6857ae4cd92fcd6edcfa9f589bdaa",
+      "url": "https://api.github.com/users/yhsiang",
+      "html_url": "https://github.com/yhsiang",
+      "followers_url": "https://api.github.com/users/yhsiang/followers",
+      "following_url": "https://api.github.com/users/yhsiang/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yhsiang/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yhsiang/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yhsiang/subscriptions",
+      "organizations_url": "https://api.github.com/users/yhsiang/orgs",
+      "repos_url": "https://api.github.com/users/yhsiang/repos",
+      "events_url": "https://api.github.com/users/yhsiang/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yhsiang/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "milestone": null,
+    "comments": 2,
+    "created_at": "2013-06-19T11:34:47Z",
+    "updated_at": "2013-11-28T06:07:54Z",
+    "closed_at": null,
+    "body": "Plan:\r\n\r\n* [x] znc cookbook\r\n* [ ] private znc server that allows connecting to #g0v.tw only\r\n* [ ] script to create znc user\r\n* [ ] authenticate against g0v hub accounts - auto create account if necessary\r\n* [ ] hack kiwiirc client to provide toolbar-like chat UI on hack.g0v.tw.  something like https://www.envolve.com/ (bottom of the page)\r\n  * widget: https://github.com/ROMB/jquery-dialogextend"
+  }
+]

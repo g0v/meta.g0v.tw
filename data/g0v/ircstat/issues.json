@@ -1,0 +1,184 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/ircstat/issues/4",
+    "labels_url": "https://api.github.com/repos/g0v/ircstat/issues/4/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/ircstat/issues/4/comments",
+    "events_url": "https://api.github.com/repos/g0v/ircstat/issues/4/events",
+    "html_url": "https://github.com/g0v/ircstat/issues/4",
+    "id": 18386544,
+    "number": 4,
+    "title": "link github api to retrieve real data",
+    "user": {
+      "login": "zbryikt",
+      "id": 2672307,
+      "avatar_url": "https://gravatar.com/avatar/7f7cce675da85bf8807da9f8d0c3a955?d=https%3A%2F%2Fidenticons.github.com%2Fd2653e0e9496a6489da74dc6ed1d6696.png&r=x",
+      "gravatar_id": "7f7cce675da85bf8807da9f8d0c3a955",
+      "url": "https://api.github.com/users/zbryikt",
+      "html_url": "https://github.com/zbryikt",
+      "followers_url": "https://api.github.com/users/zbryikt/followers",
+      "following_url": "https://api.github.com/users/zbryikt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zbryikt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zbryikt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zbryikt/subscriptions",
+      "organizations_url": "https://api.github.com/users/zbryikt/orgs",
+      "repos_url": "https://api.github.com/users/zbryikt/repos",
+      "events_url": "https://api.github.com/users/zbryikt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zbryikt/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-21T23:22:39Z",
+    "updated_at": "2013-08-21T23:22:39Z",
+    "closed_at": null,
+    "body": "create github application to acquire Access-Control-Allow-Origin: permission. then you can do whatever you wanna do."
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/ircstat/issues/3",
+    "labels_url": "https://api.github.com/repos/g0v/ircstat/issues/3/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/ircstat/issues/3/comments",
+    "events_url": "https://api.github.com/repos/g0v/ircstat/issues/3/events",
+    "html_url": "https://github.com/g0v/ircstat/issues/3",
+    "id": 18240261,
+    "number": 3,
+    "title": "consider more creative design",
+    "user": {
+      "login": "zbryikt",
+      "id": 2672307,
+      "avatar_url": "https://gravatar.com/avatar/7f7cce675da85bf8807da9f8d0c3a955?d=https%3A%2F%2Fidenticons.github.com%2Fd2653e0e9496a6489da74dc6ed1d6696.png&r=x",
+      "gravatar_id": "7f7cce675da85bf8807da9f8d0c3a955",
+      "url": "https://api.github.com/users/zbryikt",
+      "html_url": "https://github.com/zbryikt",
+      "followers_url": "https://api.github.com/users/zbryikt/followers",
+      "following_url": "https://api.github.com/users/zbryikt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zbryikt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zbryikt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zbryikt/subscriptions",
+      "organizations_url": "https://api.github.com/users/zbryikt/orgs",
+      "repos_url": "https://api.github.com/users/zbryikt/repos",
+      "events_url": "https://api.github.com/users/zbryikt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zbryikt/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/ircstat/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/ircstat/labels/question",
+        "name": "question",
+        "color": "cc317c"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-19T13:47:58Z",
+    "updated_at": "2013-08-19T13:48:14Z",
+    "closed_at": null,
+    "body": "it will lose the meaning of infographics if we do this in \"too\" engineering way. We can consider more illustration, design or creative ideas."
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/ircstat/issues/2",
+    "labels_url": "https://api.github.com/repos/g0v/ircstat/issues/2/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/ircstat/issues/2/comments",
+    "events_url": "https://api.github.com/repos/g0v/ircstat/issues/2/events",
+    "html_url": "https://github.com/g0v/ircstat/issues/2",
+    "id": 18240095,
+    "number": 2,
+    "title": "can parallax be used here?",
+    "user": {
+      "login": "zbryikt",
+      "id": 2672307,
+      "avatar_url": "https://gravatar.com/avatar/7f7cce675da85bf8807da9f8d0c3a955?d=https%3A%2F%2Fidenticons.github.com%2Fd2653e0e9496a6489da74dc6ed1d6696.png&r=x",
+      "gravatar_id": "7f7cce675da85bf8807da9f8d0c3a955",
+      "url": "https://api.github.com/users/zbryikt",
+      "html_url": "https://github.com/zbryikt",
+      "followers_url": "https://api.github.com/users/zbryikt/followers",
+      "following_url": "https://api.github.com/users/zbryikt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zbryikt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zbryikt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zbryikt/subscriptions",
+      "organizations_url": "https://api.github.com/users/zbryikt/orgs",
+      "repos_url": "https://api.github.com/users/zbryikt/repos",
+      "events_url": "https://api.github.com/users/zbryikt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zbryikt/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/ircstat/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/ircstat/labels/question",
+        "name": "question",
+        "color": "cc317c"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-19T13:44:49Z",
+    "updated_at": "2013-08-19T13:48:35Z",
+    "closed_at": null,
+    "body": "just a thought from clkao,  maybe it's quite suitable to adopt parallax design by flowing though each stat icons(icons in the left hand side) when scrolling down."
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/ircstat/issues/1",
+    "labels_url": "https://api.github.com/repos/g0v/ircstat/issues/1/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/ircstat/issues/1/comments",
+    "events_url": "https://api.github.com/repos/g0v/ircstat/issues/1/events",
+    "html_url": "https://github.com/g0v/ircstat/issues/1",
+    "id": 17982972,
+    "number": 1,
+    "title": "link to live data",
+    "user": {
+      "login": "kcwu",
+      "id": 175566,
+      "avatar_url": "https://gravatar.com/avatar/dcf72ddc903576375b3ffb65290a9d40?d=https%3A%2F%2Fidenticons.github.com%2F98dca029b4b8c0a769519e95d7b632f1.png&r=x",
+      "gravatar_id": "dcf72ddc903576375b3ffb65290a9d40",
+      "url": "https://api.github.com/users/kcwu",
+      "html_url": "https://github.com/kcwu",
+      "followers_url": "https://api.github.com/users/kcwu/followers",
+      "following_url": "https://api.github.com/users/kcwu/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kcwu/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kcwu/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kcwu/subscriptions",
+      "organizations_url": "https://api.github.com/users/kcwu/orgs",
+      "repos_url": "https://api.github.com/users/kcwu/repos",
+      "events_url": "https://api.github.com/users/kcwu/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kcwu/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/ircstat/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-13T07:31:27Z",
+    "updated_at": "2013-08-13T07:31:37Z",
+    "closed_at": null,
+    "body": "http://kcwu.csie.org/~kcwu/ircstat/g0v-count.json\r\n(update once per day)\r\n"
+  }
+]

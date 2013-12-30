@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/moedict-data-hakka/issues/1",
+    "labels_url": "https://api.github.com/repos/g0v/moedict-data-hakka/issues/1/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/moedict-data-hakka/issues/1/comments",
+    "events_url": "https://api.github.com/repos/g0v/moedict-data-hakka/issues/1/events",
+    "html_url": "https://github.com/g0v/moedict-data-hakka/issues/1",
+    "id": 18333278,
+    "number": 1,
+    "title": "Add g0v.json",
+    "user": {
+      "login": "kcwu",
+      "id": 175566,
+      "avatar_url": "https://gravatar.com/avatar/dcf72ddc903576375b3ffb65290a9d40?d=https%3A%2F%2Fidenticons.github.com%2F98dca029b4b8c0a769519e95d7b632f1.png&r=x",
+      "gravatar_id": "dcf72ddc903576375b3ffb65290a9d40",
+      "url": "https://api.github.com/users/kcwu",
+      "html_url": "https://github.com/kcwu",
+      "followers_url": "https://api.github.com/users/kcwu/followers",
+      "following_url": "https://api.github.com/users/kcwu/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kcwu/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kcwu/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kcwu/subscriptions",
+      "organizations_url": "https://api.github.com/users/kcwu/orgs",
+      "repos_url": "https://api.github.com/users/kcwu/repos",
+      "events_url": "https://api.github.com/users/kcwu/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kcwu/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-21T02:38:07Z",
+    "updated_at": "2013-08-21T02:38:07Z",
+    "closed_at": null,
+    "body": "If this project does not belong to http://g0v.tw/ or is not applicable, \r\nyou can ignore and close this bug.\r\n\r\nOtherwise please add g0v.json to your project.\r\nSee https://g0v.hackpad.com/g0v.json-spec-c07sSfauWSc for detail.\r\n\r\nYou can see the progress of adding g0v.json here: g0v/hack.g0v.tw#35"
+  }
+]

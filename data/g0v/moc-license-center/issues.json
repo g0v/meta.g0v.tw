@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/moc-license-center/issues/2",
+    "labels_url": "https://api.github.com/repos/g0v/moc-license-center/issues/2/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/moc-license-center/issues/2/comments",
+    "events_url": "https://api.github.com/repos/g0v/moc-license-center/issues/2/events",
+    "html_url": "https://github.com/g0v/moc-license-center/issues/2",
+    "id": 24828001,
+    "number": 2,
+    "title": "CC 文字格式",
+    "user": {
+      "login": "ETBlue",
+      "id": 244354,
+      "avatar_url": "https://gravatar.com/avatar/c9dbd97e2e3a7b00639bab0e111c2be6?d=https%3A%2F%2Fidenticons.github.com%2F07cc0bfcdfb6597e7fde5b2c1778a2a9.png&r=x",
+      "gravatar_id": "c9dbd97e2e3a7b00639bab0e111c2be6",
+      "url": "https://api.github.com/users/ETBlue",
+      "html_url": "https://github.com/ETBlue",
+      "followers_url": "https://api.github.com/users/ETBlue/followers",
+      "following_url": "https://api.github.com/users/ETBlue/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ETBlue/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ETBlue/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ETBlue/subscriptions",
+      "organizations_url": "https://api.github.com/users/ETBlue/orgs",
+      "repos_url": "https://api.github.com/users/ETBlue/repos",
+      "events_url": "https://api.github.com/users/ETBlue/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ETBlue/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 3,
+    "created_at": "2013-12-27T17:57:42Z",
+    "updated_at": "2013-12-28T07:21:07Z",
+    "closed_at": null,
+    "body": "先記在這邊\r\n\r\nvia @nchild\r\n正確寫法應該是 CC BY-XX-XX [license version] [unported/jurisdiction ports]，例如：CC BY-SA 3.0 TW\r\n\r\nhttp://logbot.g0v.tw/channel/g0v.tw/2013-12-28/117"
+  }
+]

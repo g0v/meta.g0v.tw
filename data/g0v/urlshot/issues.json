@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/urlshot/issues/1",
+    "labels_url": "https://api.github.com/repos/g0v/urlshot/issues/1/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/urlshot/issues/1/comments",
+    "events_url": "https://api.github.com/repos/g0v/urlshot/issues/1/events",
+    "html_url": "https://github.com/g0v/urlshot/issues/1",
+    "id": 22683054,
+    "number": 1,
+    "title": "can not capture the screenshot of www.google.com",
+    "user": {
+      "login": "hychen",
+      "id": 38706,
+      "avatar_url": "https://gravatar.com/avatar/1ee211172ad7e550d0f83987c842dbe0?d=https%3A%2F%2Fidenticons.github.com%2Ffde68dedaec43289f5f7d9c8fa7ff53d.png&r=x",
+      "gravatar_id": "1ee211172ad7e550d0f83987c842dbe0",
+      "url": "https://api.github.com/users/hychen",
+      "html_url": "https://github.com/hychen",
+      "followers_url": "https://api.github.com/users/hychen/followers",
+      "following_url": "https://api.github.com/users/hychen/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hychen/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hychen/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hychen/subscriptions",
+      "organizations_url": "https://api.github.com/users/hychen/orgs",
+      "repos_url": "https://api.github.com/users/hychen/repos",
+      "events_url": "https://api.github.com/users/hychen/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hychen/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/urlshot/labels/bug",
+        "name": "bug",
+        "color": "fc2929"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-11-14T18:46:34Z",
+    "updated_at": "2013-11-14T18:46:38Z",
+    "closed_at": null,
+    "body": "the webpage shows empty.\r\n\r\nsetp to reproduce:\r\n\r\n- http://urlshot.gugod.org/?url=http://www.google.com"
+  }
+]

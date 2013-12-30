@@ -1,0 +1,223 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/9",
+    "labels_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/9/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/9/comments",
+    "events_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/9/events",
+    "html_url": "https://github.com/g0v/encoding-mashup-server/issues/9",
+    "id": 18333143,
+    "number": 9,
+    "title": "Add g0v.json",
+    "user": {
+      "login": "kcwu",
+      "id": 175566,
+      "avatar_url": "https://gravatar.com/avatar/dcf72ddc903576375b3ffb65290a9d40?d=https%3A%2F%2Fidenticons.github.com%2F98dca029b4b8c0a769519e95d7b632f1.png&r=x",
+      "gravatar_id": "dcf72ddc903576375b3ffb65290a9d40",
+      "url": "https://api.github.com/users/kcwu",
+      "html_url": "https://github.com/kcwu",
+      "followers_url": "https://api.github.com/users/kcwu/followers",
+      "following_url": "https://api.github.com/users/kcwu/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kcwu/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kcwu/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kcwu/subscriptions",
+      "organizations_url": "https://api.github.com/users/kcwu/orgs",
+      "repos_url": "https://api.github.com/users/kcwu/repos",
+      "events_url": "https://api.github.com/users/kcwu/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kcwu/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-21T02:32:29Z",
+    "updated_at": "2013-08-21T02:32:29Z",
+    "closed_at": null,
+    "body": "If this project does not belong to http://g0v.tw/ or is not applicable, \r\nyou can ignore and close this bug.\r\n\r\nOtherwise please add g0v.json to your project.\r\nSee https://g0v.hackpad.com/g0v.json-spec-c07sSfauWSc for detail.\r\n\r\nYou can see the progress of adding g0v.json here: g0v/hack.g0v.tw#35"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/8",
+    "labels_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/8/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/8/comments",
+    "events_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/8/events",
+    "html_url": "https://github.com/g0v/encoding-mashup-server/issues/8",
+    "id": 11391271,
+    "number": 8,
+    "title": "Atomic PUT",
+    "user": {
+      "login": "favonia",
+      "id": 1471328,
+      "avatar_url": "https://gravatar.com/avatar/35961f534359442487dfe40aa03f2d47?d=https%3A%2F%2Fidenticons.github.com%2F98764fd7154ce4a4e91d8eb651aef895.png&r=x",
+      "gravatar_id": "35961f534359442487dfe40aa03f2d47",
+      "url": "https://api.github.com/users/favonia",
+      "html_url": "https://github.com/favonia",
+      "followers_url": "https://api.github.com/users/favonia/followers",
+      "following_url": "https://api.github.com/users/favonia/following{/other_user}",
+      "gists_url": "https://api.github.com/users/favonia/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/favonia/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/favonia/subscriptions",
+      "organizations_url": "https://api.github.com/users/favonia/orgs",
+      "repos_url": "https://api.github.com/users/favonia/repos",
+      "events_url": "https://api.github.com/users/favonia/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/favonia/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/encoding-mashup-server/labels/bug",
+        "name": "bug",
+        "color": "fc2929"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-02-26T02:50:03Z",
+    "updated_at": "2013-02-26T02:52:46Z",
+    "closed_at": null,
+    "body": "後端需要能鎖某個 row 而且不讓他出現。目前的 PUT 實作有 race condition. 最簡單（但不理想）的作法是鎖整個表格。"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/7",
+    "labels_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/7/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/7/comments",
+    "events_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/7/events",
+    "html_url": "https://github.com/g0v/encoding-mashup-server/issues/7",
+    "id": 10867453,
+    "number": 7,
+    "title": "缺少使用者登入、資料備份、復原機制等",
+    "user": {
+      "login": "favonia",
+      "id": 1471328,
+      "avatar_url": "https://gravatar.com/avatar/35961f534359442487dfe40aa03f2d47?d=https%3A%2F%2Fidenticons.github.com%2F98764fd7154ce4a4e91d8eb651aef895.png&r=x",
+      "gravatar_id": "35961f534359442487dfe40aa03f2d47",
+      "url": "https://api.github.com/users/favonia",
+      "html_url": "https://github.com/favonia",
+      "followers_url": "https://api.github.com/users/favonia/followers",
+      "following_url": "https://api.github.com/users/favonia/following{/other_user}",
+      "gists_url": "https://api.github.com/users/favonia/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/favonia/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/favonia/subscriptions",
+      "organizations_url": "https://api.github.com/users/favonia/orgs",
+      "repos_url": "https://api.github.com/users/favonia/repos",
+      "events_url": "https://api.github.com/users/favonia/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/favonia/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/encoding-mashup-server/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb"
+      },
+      {
+        "url": "https://api.github.com/repos/g0v/encoding-mashup-server/labels/question",
+        "name": "question",
+        "color": "cc317c"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-02-11T14:20:01Z",
+    "updated_at": "2013-02-11T14:20:01Z",
+    "closed_at": null,
+    "body": ""
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/6",
+    "labels_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/6/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/6/comments",
+    "events_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/6/events",
+    "html_url": "https://github.com/g0v/encoding-mashup-server/issues/6",
+    "id": 10867050,
+    "number": 6,
+    "title": "伺服器端驗證",
+    "user": {
+      "login": "favonia",
+      "id": 1471328,
+      "avatar_url": "https://gravatar.com/avatar/35961f534359442487dfe40aa03f2d47?d=https%3A%2F%2Fidenticons.github.com%2F98764fd7154ce4a4e91d8eb651aef895.png&r=x",
+      "gravatar_id": "35961f534359442487dfe40aa03f2d47",
+      "url": "https://api.github.com/users/favonia",
+      "html_url": "https://github.com/favonia",
+      "followers_url": "https://api.github.com/users/favonia/followers",
+      "following_url": "https://api.github.com/users/favonia/following{/other_user}",
+      "gists_url": "https://api.github.com/users/favonia/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/favonia/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/favonia/subscriptions",
+      "organizations_url": "https://api.github.com/users/favonia/orgs",
+      "repos_url": "https://api.github.com/users/favonia/repos",
+      "events_url": "https://api.github.com/users/favonia/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/favonia/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/encoding-mashup-server/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-02-11T14:08:13Z",
+    "updated_at": "2013-02-11T14:08:13Z",
+    "closed_at": null,
+    "body": "目前除了 Haskell 本身型態加的限制外，沒有任何驗證。例如 CNS 編碼的格式沒有檢查。"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/2",
+    "labels_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/2/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/2/comments",
+    "events_url": "https://api.github.com/repos/g0v/encoding-mashup-server/issues/2/events",
+    "html_url": "https://github.com/g0v/encoding-mashup-server/issues/2",
+    "id": 10835355,
+    "number": 2,
+    "title": "`getUpdatedChars` JSON 意義",
+    "user": {
+      "login": "favonia",
+      "id": 1471328,
+      "avatar_url": "https://gravatar.com/avatar/35961f534359442487dfe40aa03f2d47?d=https%3A%2F%2Fidenticons.github.com%2F98764fd7154ce4a4e91d8eb651aef895.png&r=x",
+      "gravatar_id": "35961f534359442487dfe40aa03f2d47",
+      "url": "https://api.github.com/users/favonia",
+      "html_url": "https://github.com/favonia",
+      "followers_url": "https://api.github.com/users/favonia/followers",
+      "following_url": "https://api.github.com/users/favonia/following{/other_user}",
+      "gists_url": "https://api.github.com/users/favonia/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/favonia/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/favonia/subscriptions",
+      "organizations_url": "https://api.github.com/users/favonia/orgs",
+      "repos_url": "https://api.github.com/users/favonia/repos",
+      "events_url": "https://api.github.com/users/favonia/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/favonia/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/encoding-mashup-server/labels/bug",
+        "name": "bug",
+        "color": "fc2929"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-02-11T01:19:47Z",
+    "updated_at": "2013-02-11T01:23:18Z",
+    "closed_at": null,
+    "body": "原設計 JSON 意義如下：\r\n\r\n- key 不存在代表沒有更動\r\n- key 存在但內容為 `null` 代表被刪除\r\n- key 存在且有內容代表被換成新內容\r\n\r\n目前伺服器沒有遵守這個協定。"
+  }
+]

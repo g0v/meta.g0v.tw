@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/g0village/issues/2",
+    "labels_url": "https://api.github.com/repos/g0v/g0village/issues/2/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/g0village/issues/2/comments",
+    "events_url": "https://api.github.com/repos/g0v/g0village/issues/2/events",
+    "html_url": "https://github.com/g0v/g0village/issues/2",
+    "id": 17711403,
+    "number": 2,
+    "title": "研究從 Storyboard 直接產生畫面之可行性",
+    "user": {
+      "login": "audreyt",
+      "id": 20723,
+      "avatar_url": "https://gravatar.com/avatar/f63068d724b6084f4807a86426b3b9eb?d=https%3A%2F%2Fidenticons.github.com%2F186ba2b5d093634fd7a873faea7e41ba.png&r=x",
+      "gravatar_id": "f63068d724b6084f4807a86426b3b9eb",
+      "url": "https://api.github.com/users/audreyt",
+      "html_url": "https://github.com/audreyt",
+      "followers_url": "https://api.github.com/users/audreyt/followers",
+      "following_url": "https://api.github.com/users/audreyt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/audreyt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/audreyt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/audreyt/subscriptions",
+      "organizations_url": "https://api.github.com/users/audreyt/orgs",
+      "repos_url": "https://api.github.com/users/audreyt/repos",
+      "events_url": "https://api.github.com/users/audreyt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/audreyt/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 5,
+    "created_at": "2013-08-06T20:03:10Z",
+    "updated_at": "2013-08-09T04:11:18Z",
+    "closed_at": null,
+    "body": "https://github.com/siefkenj/dotgraph 是現成的 .dot 解析器，而 Emscripten 化的 https://github.com/mdaines/viz.js ( http://mdaines.github.io/viz.js/example.html ) 更可以從 hlb 的 `storyboards/new_game.dot` 直接出 `<svg>` 元素。\r\n\r\n有沒有可能直接從上述的 .dot 直接產生 vn-canvas 的 API call 呢?\r\nhttps://googledrive.com/host/0ByTPdb3Faj_XSWtkMUpxWjh0SDg/demo_tryit.html\r\nhttps://googledrive.com/host/0ByTPdb3Faj_XSWtkMUpxWjh0SDg/demo_vn.html\r\n\r\n或是 js-vine 的 API call？\r\nhttps://github.com/jdeisenberg/js-vine/blob/master/hyptest/index.html\r\n\r\n如果可以的話（配上約定的 asset naming convention)，就可以用 .dot 檔 (vim, GraphViz.app, OmniGraffle.app, etc) 做雛形的遊戲了。"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/g0village/issues/1",
+    "labels_url": "https://api.github.com/repos/g0v/g0village/issues/1/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/g0village/issues/1/comments",
+    "events_url": "https://api.github.com/repos/g0v/g0village/issues/1/events",
+    "html_url": "https://github.com/g0v/g0village/issues/1",
+    "id": 17692402,
+    "number": 1,
+    "title": "製作 alpha 版 storyboard",
+    "user": {
+      "login": "hlb",
+      "id": 4609,
+      "avatar_url": "https://gravatar.com/avatar/fb3ef9d787efc034baf24fe27663c1f6?d=https%3A%2F%2Fidenticons.github.com%2Fe661551c8ec9308379cda7e2419348e5.png&r=x",
+      "gravatar_id": "fb3ef9d787efc034baf24fe27663c1f6",
+      "url": "https://api.github.com/users/hlb",
+      "html_url": "https://github.com/hlb",
+      "followers_url": "https://api.github.com/users/hlb/followers",
+      "following_url": "https://api.github.com/users/hlb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hlb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hlb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hlb/subscriptions",
+      "organizations_url": "https://api.github.com/users/hlb/orgs",
+      "repos_url": "https://api.github.com/users/hlb/repos",
+      "events_url": "https://api.github.com/users/hlb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hlb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-06T14:17:53Z",
+    "updated_at": "2013-08-06T14:17:53Z",
+    "closed_at": null,
+    "body": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://api.github.com/repos/yllan/newshelper-safari/issues/2",
+    "labels_url": "https://api.github.com/repos/yllan/newshelper-safari/issues/2/labels{/name}",
+    "comments_url": "https://api.github.com/repos/yllan/newshelper-safari/issues/2/comments",
+    "events_url": "https://api.github.com/repos/yllan/newshelper-safari/issues/2/events",
+    "html_url": "https://github.com/yllan/newshelper-safari/issues/2",
+    "id": 24857232,
+    "number": 2,
+    "title": "回報功能無法顯示",
+    "user": {
+      "login": "nchild",
+      "id": 2028448,
+      "avatar_url": "https://gravatar.com/avatar/6806eac6ec117a232152ee3a35e0b5b1?d=https%3A%2F%2Fidenticons.github.com%2Fce407ac7e0cc381b7c8ae6779e2eced8.png&r=x",
+      "gravatar_id": "6806eac6ec117a232152ee3a35e0b5b1",
+      "url": "https://api.github.com/users/nchild",
+      "html_url": "https://github.com/nchild",
+      "followers_url": "https://api.github.com/users/nchild/followers",
+      "following_url": "https://api.github.com/users/nchild/following{/other_user}",
+      "gists_url": "https://api.github.com/users/nchild/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/nchild/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/nchild/subscriptions",
+      "organizations_url": "https://api.github.com/users/nchild/orgs",
+      "repos_url": "https://api.github.com/users/nchild/repos",
+      "events_url": "https://api.github.com/users/nchild/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/nchild/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-12-29T08:03:42Z",
+    "updated_at": "2013-12-29T08:03:42Z",
+    "closed_at": null,
+    "body": "Safari 版本 7.0.1 (9537.73.11)\r\nOS X 10.9.1 (13B42)\r\n\r\n不是很清楚哪一個版本開始有問題，但現在是確定不行。"
+  },
+  {
+    "url": "https://api.github.com/repos/yllan/newshelper-safari/issues/1",
+    "labels_url": "https://api.github.com/repos/yllan/newshelper-safari/issues/1/labels{/name}",
+    "comments_url": "https://api.github.com/repos/yllan/newshelper-safari/issues/1/comments",
+    "events_url": "https://api.github.com/repos/yllan/newshelper-safari/issues/1/events",
+    "html_url": "https://github.com/yllan/newshelper-safari/issues/1",
+    "id": 20878850,
+    "number": 1,
+    "title": "會跳出「需要100MB的儲存空間是否同意」視窗",
+    "user": {
+      "login": "ronnywang",
+      "id": 527063,
+      "avatar_url": "https://gravatar.com/avatar/ff8938a33e3709b362562afdd0f3bbf7?d=https%3A%2F%2Fidenticons.github.com%2F47adb45b726d911612d658c754859110.png&r=x",
+      "gravatar_id": "ff8938a33e3709b362562afdd0f3bbf7",
+      "url": "https://api.github.com/users/ronnywang",
+      "html_url": "https://github.com/ronnywang",
+      "followers_url": "https://api.github.com/users/ronnywang/followers",
+      "following_url": "https://api.github.com/users/ronnywang/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ronnywang/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ronnywang/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ronnywang/subscriptions",
+      "organizations_url": "https://api.github.com/users/ronnywang/orgs",
+      "repos_url": "https://api.github.com/users/ronnywang/repos",
+      "events_url": "https://api.github.com/users/ronnywang/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ronnywang/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 1,
+    "created_at": "2013-10-11T16:23:02Z",
+    "updated_at": "2013-10-12T06:25:47Z",
+    "closed_at": null,
+    "body": "From https://www.facebook.com/newshelper/posts/344305215715480\r\nsafari的新聞小幫手，常會跳出視窗問我需要100MB的儲存空間是否同意，請問要如何解決？若無法解決，請問如何移除，謝謝\r\n\r\n![Alert](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn2/s261x260/1378893_677593532259009_470826332_n.jpg)\r\n\r\n可能是 FB 瀏覽記錄儲存太多了，改成只存七天內看看?"
+  }
+]

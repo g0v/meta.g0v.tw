@@ -1,0 +1,60 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/moedict-process/issues/2",
+    "labels_url": "https://api.github.com/repos/g0v/moedict-process/issues/2/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/moedict-process/issues/2/comments",
+    "events_url": "https://api.github.com/repos/g0v/moedict-process/issues/2/events",
+    "html_url": "https://github.com/g0v/moedict-process/issues/2",
+    "id": 10807830,
+    "number": 2,
+    "title": "unable to parse bad syntax of synonyms and antonyms",
+    "user": {
+      "login": "kcwu",
+      "id": 175566,
+      "avatar_url": "https://gravatar.com/avatar/dcf72ddc903576375b3ffb65290a9d40?d=https%3A%2F%2Fidenticons.github.com%2F98dca029b4b8c0a769519e95d7b632f1.png&r=x",
+      "gravatar_id": "dcf72ddc903576375b3ffb65290a9d40",
+      "url": "https://api.github.com/users/kcwu",
+      "html_url": "https://github.com/kcwu",
+      "followers_url": "https://api.github.com/users/kcwu/followers",
+      "following_url": "https://api.github.com/users/kcwu/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kcwu/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kcwu/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kcwu/subscriptions",
+      "organizations_url": "https://api.github.com/users/kcwu/orgs",
+      "repos_url": "https://api.github.com/users/kcwu/repos",
+      "events_url": "https://api.github.com/users/kcwu/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kcwu/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": {
+      "login": "kcwu",
+      "id": 175566,
+      "avatar_url": "https://gravatar.com/avatar/dcf72ddc903576375b3ffb65290a9d40?d=https%3A%2F%2Fidenticons.github.com%2F98dca029b4b8c0a769519e95d7b632f1.png&r=x",
+      "gravatar_id": "dcf72ddc903576375b3ffb65290a9d40",
+      "url": "https://api.github.com/users/kcwu",
+      "html_url": "https://github.com/kcwu",
+      "followers_url": "https://api.github.com/users/kcwu/followers",
+      "following_url": "https://api.github.com/users/kcwu/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kcwu/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kcwu/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kcwu/subscriptions",
+      "organizations_url": "https://api.github.com/users/kcwu/orgs",
+      "repos_url": "https://api.github.com/users/kcwu/repos",
+      "events_url": "https://api.github.com/users/kcwu/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kcwu/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "milestone": null,
+    "comments": 1,
+    "created_at": "2013-02-09T10:12:50Z",
+    "updated_at": "2013-02-10T06:17:31Z",
+    "closed_at": null,
+    "body": "有些詞的原始網頁，同反義詞標示有問題\r\n\r\n1. 「目次」的同義詞「目錄(2)」\r\n2. 「性子」的同義詞「(1)個性、性格、性情 (2)性質」，但「性子」只有一義\r\n3. 「招呼」的同義詞「(1)理睬 (5)呼喚、召喚、招喚 (6)款待、招待」，但只有五義\r\n4. 「神馳」的同義詞「(2)嚮往」，但只有一義\r\n"
+  }
+]

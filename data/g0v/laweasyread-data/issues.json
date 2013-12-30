@@ -1,0 +1,130 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/laweasyread-data/issues/10",
+    "labels_url": "https://api.github.com/repos/g0v/laweasyread-data/issues/10/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/laweasyread-data/issues/10/comments",
+    "events_url": "https://api.github.com/repos/g0v/laweasyread-data/issues/10/events",
+    "html_url": "https://github.com/g0v/laweasyread-data/issues/10",
+    "id": 18333447,
+    "number": 10,
+    "title": "Add g0v.json",
+    "user": {
+      "login": "kcwu",
+      "id": 175566,
+      "avatar_url": "https://gravatar.com/avatar/dcf72ddc903576375b3ffb65290a9d40?d=https%3A%2F%2Fidenticons.github.com%2F98dca029b4b8c0a769519e95d7b632f1.png&r=x",
+      "gravatar_id": "dcf72ddc903576375b3ffb65290a9d40",
+      "url": "https://api.github.com/users/kcwu",
+      "html_url": "https://github.com/kcwu",
+      "followers_url": "https://api.github.com/users/kcwu/followers",
+      "following_url": "https://api.github.com/users/kcwu/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kcwu/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kcwu/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kcwu/subscriptions",
+      "organizations_url": "https://api.github.com/users/kcwu/orgs",
+      "repos_url": "https://api.github.com/users/kcwu/repos",
+      "events_url": "https://api.github.com/users/kcwu/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kcwu/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-08-21T02:45:53Z",
+    "updated_at": "2013-08-21T02:45:53Z",
+    "closed_at": null,
+    "body": "If this project does not belong to http://g0v.tw/ or is not applicable, \r\nyou can ignore and close this bug.\r\n\r\nOtherwise please add g0v.json to your project.\r\nSee https://g0v.hackpad.com/g0v.json-spec-c07sSfauWSc for detail.\r\n\r\nYou can see the progress of adding g0v.json here: g0v/hack.g0v.tw#35"
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/laweasyread-data/issues/9",
+    "labels_url": "https://api.github.com/repos/g0v/laweasyread-data/issues/9/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/laweasyread-data/issues/9/comments",
+    "events_url": "https://api.github.com/repos/g0v/laweasyread-data/issues/9/events",
+    "html_url": "https://github.com/g0v/laweasyread-data/issues/9",
+    "id": 15266341,
+    "number": 9,
+    "title": "Some characters are not converted to UTF-8",
+    "user": {
+      "login": "kong0107",
+      "id": 4002443,
+      "avatar_url": "https://gravatar.com/avatar/9a5ccdc3575869af9da0cec6d4a73c6b?d=https%3A%2F%2Fidenticons.github.com%2Fbd4ee2de2abd72a6215f1d9bcc0fd72a.png&r=x",
+      "gravatar_id": "9a5ccdc3575869af9da0cec6d4a73c6b",
+      "url": "https://api.github.com/users/kong0107",
+      "html_url": "https://github.com/kong0107",
+      "followers_url": "https://api.github.com/users/kong0107/followers",
+      "following_url": "https://api.github.com/users/kong0107/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kong0107/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kong0107/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kong0107/subscriptions",
+      "organizations_url": "https://api.github.com/users/kong0107/orgs",
+      "repos_url": "https://api.github.com/users/kong0107/repos",
+      "events_url": "https://api.github.com/users/kong0107/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kong0107/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/laweasyread-data/labels/bug",
+        "name": "bug",
+        "color": "fc2929"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 1,
+    "created_at": "2013-06-07T10:36:48Z",
+    "updated_at": "2013-06-07T10:42:20Z",
+    "closed_at": null,
+    "body": "For example, [`rawdata/utf8_lawstat/version2/01011/0101136061100.html`](https://github.com/g0v/laweasyread-data/blob/master/rawdata/utf8_lawstat/version2/01011/0101136061100.html) ended with exception.\r\nThe 2-byte character of that word is 0xFECA, which is not defined in Big5. See [Wikipedia](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC#.E5.AD.97.E7.AF.80.E7.B5.90.E6.A7.8B) for the range of undefined characters. I guess characters in those ranges cannot be converted to UTF-8.\r\n\r\nWhile trying to parse with Ruby's [`String#encode`](http://ruby-doc.org/core-2.0/String.html#method-i-encode), I list those throw `Encoding::UndefinedConversionError` while trying to convert from UTF-8 to Big5 in [`error.log`](https://github.com/kong0107/zhLawEasyRead/blob/master/lyParser_ruby/json/version2/error.log) of my own project. Some of them match the bug here. Maybe it would help."
+  },
+  {
+    "url": "https://api.github.com/repos/g0v/laweasyread-data/issues/8",
+    "labels_url": "https://api.github.com/repos/g0v/laweasyread-data/issues/8/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/laweasyread-data/issues/8/comments",
+    "events_url": "https://api.github.com/repos/g0v/laweasyread-data/issues/8/events",
+    "html_url": "https://github.com/g0v/laweasyread-data/issues/8",
+    "id": 13445894,
+    "number": 8,
+    "title": "Cannot handle article shift",
+    "user": {
+      "login": "czchen",
+      "id": 98758,
+      "avatar_url": "https://gravatar.com/avatar/83582d4582ba6c15efa37c13cb1fded2?d=https%3A%2F%2Fidenticons.github.com%2Fd8497e3318f8e43bc851aa5f18cc60f9.png&r=x",
+      "gravatar_id": "83582d4582ba6c15efa37c13cb1fded2",
+      "url": "https://api.github.com/users/czchen",
+      "html_url": "https://github.com/czchen",
+      "followers_url": "https://api.github.com/users/czchen/followers",
+      "following_url": "https://api.github.com/users/czchen/following{/other_user}",
+      "gists_url": "https://api.github.com/users/czchen/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/czchen/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/czchen/subscriptions",
+      "organizations_url": "https://api.github.com/users/czchen/orgs",
+      "repos_url": "https://api.github.com/users/czchen/repos",
+      "events_url": "https://api.github.com/users/czchen/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/czchen/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/laweasyread-data/labels/bug",
+        "name": "bug",
+        "color": "fc2929"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2013-04-21T07:53:53Z",
+    "updated_at": "2013-04-21T07:53:53Z",
+    "closed_at": null,
+    "body": "See [history of 監察法](http://lis.ly.gov.tw/lghtml/lawstat/version2/04708/0470837071300.htm). The change log in `中華民國 38 年 5 月 20 日` is `增訂第23條原第二十三條改為第二十四條其餘條文依次遞改`. In current parser, it cannot find the `依次遞改` (article shift).\r\n\r\nWe need a new schema to describe article shift so that front-end can display correct history."
+  }
+]

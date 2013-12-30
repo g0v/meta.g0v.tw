@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://api.github.com/repos/g0v/twly-voter-guide/issues/2",
+    "labels_url": "https://api.github.com/repos/g0v/twly-voter-guide/issues/2/labels{/name}",
+    "comments_url": "https://api.github.com/repos/g0v/twly-voter-guide/issues/2/comments",
+    "events_url": "https://api.github.com/repos/g0v/twly-voter-guide/issues/2/events",
+    "html_url": "https://github.com/g0v/twly-voter-guide/issues/2",
+    "id": 24538440,
+    "number": 2,
+    "title": "在脫黨投票頁加註說明",
+    "user": {
+      "login": "ipaaa",
+      "id": 2939042,
+      "avatar_url": "https://gravatar.com/avatar/59b5bdba79f1db01187c5620bd64c572?d=https%3A%2F%2Fidenticons.github.com%2Fa6f43f0eb6e9caa1ba8d80aa503afa16.png&r=x",
+      "gravatar_id": "59b5bdba79f1db01187c5620bd64c572",
+      "url": "https://api.github.com/users/ipaaa",
+      "html_url": "https://github.com/ipaaa",
+      "followers_url": "https://api.github.com/users/ipaaa/followers",
+      "following_url": "https://api.github.com/users/ipaaa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ipaaa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ipaaa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ipaaa/subscriptions",
+      "organizations_url": "https://api.github.com/users/ipaaa/orgs",
+      "repos_url": "https://api.github.com/users/ipaaa/repos",
+      "events_url": "https://api.github.com/users/ipaaa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ipaaa/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "url": "https://api.github.com/repos/g0v/twly-voter-guide/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb"
+      }
+    ],
+    "state": "open",
+    "assignee": null,
+    "milestone": null,
+    "comments": 1,
+    "created_at": "2013-12-19T05:59:27Z",
+    "updated_at": "2013-12-19T07:07:56Z",
+    "closed_at": null,
+    "body": "（ipa幫貼）\r\n\r\n網友奉君山提出討論：\r\nhttp://goo.gl/m5A6lr\r\n\r\n他也提供說明文：\r\n「本指標僅指出個別立委在投票中與同黨多數立委在投票行為上的差異程度，不涉及對其脫黨投票與否的評價。建議您點選立委姓名連結，進一步釐清脫黨投票行為的實質內容，和您的觀點做出比對，來評價本指標的實質意義。」\r\n\r\n"
+  }
+]
