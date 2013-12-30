@@ -28,7 +28,7 @@ you need:
   * gem i github_api
 
 
-Github有60 req per hour的api rate limit，為了避免撞到此上限，需要登入再執行github crawler。登入方式為：將scripts/底下的config.json rename成config.json，填入你的github username and password
+Github有60 req per hour的api rate limit，為了避免撞到此上限，需要登入再執行github crawler。登入方式為：將scripts/底下的config.json.sample rename成config.json，填入你的github username and password
 
 then
 
