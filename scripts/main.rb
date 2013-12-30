@@ -3,7 +3,7 @@ require 'json'
 
 login = JSON.parse(File.open("scripts/config.json").read)
 
-github = Github.new login: login["USERNAME"], password: login["PASSWORD"]
+github = Github.new login: login["username"], password: login["password"]
 
 def issues_json(github, user, repo)
   issues = []
